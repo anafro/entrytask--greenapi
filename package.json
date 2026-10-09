@@ -9,10 +9,15 @@
     "lint": "eslint"
   },
   "dependencies": {
+    "@tanstack/react-query": "^5.104.1",
+    "clsx": "^2.1.1",
+    "google-material-icons": "^2.1.5",
     "next": "16.4.0",
     "react": "19.3.0",
     "react-dom": "19.3.0",
-    "sass": "^1.105.1"
+    "sass": "^1.105.1",
+    "universal-cookie": "^8.1.2",
+    "zod": "^4.6.5"
   },
   "devDependencies": {
     "@tailwindcss/turbopack": "^4",
